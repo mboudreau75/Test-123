@@ -110,7 +110,7 @@ messages = [
      Use the files in the Final_Project_Documents folder to determine whether a given beneficiary qualifies for a U.S. L-1 nonimmigrant visa and, if so, which L-1 category the applicant qualifies under. 
      Draft a support letter for a U.S. L-1 nonimmigrant visa petition based on the following parameters: 
      - Use the template_L1_sl.txt file contents for the support letter format.
-     - Use the specific visa category the applicant qualifies for based on the files and incorporate an explanation for the Beneficiary qualification based on the USCIS regulations relevant to the specified visa type.
+     - Only use the specific visa category the applicant qualifies for based on the files and incorporate an explanation for the Beneficiary qualification based on the USCIS regulations relevant to the specified visa type.
      - Save the drafted support letter as 'Boudreau_Matthew_L-1_Support_Letter.txt' in the Final_Project_Documents folder. 
      - Never overwrite the contents of the original files."
      - Include description of the Petitioner and ultimate parent company business operations.
